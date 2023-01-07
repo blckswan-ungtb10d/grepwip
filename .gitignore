@@ -1,0 +1,16 @@
+/default.build.user
+/obj
+/bin
+/.vs
+/packages
+/src/grepWin.vcxproj.user
+/src/version.h
+/version.build
+/signinfo.txt
+/src/Resources/grepWin.aps
+/src/Setup/VersionNumberInclude.wxi
+/test
+/choco/package
+/_ReSharper.Caches
+/src/ExplorerCommandVerb/ExplorerCommandVerb.vcxproj.user
+/src/Setup/x64
