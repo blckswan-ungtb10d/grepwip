@@ -1,4 +1,4 @@
 [submodule "sktoolslib"]
 	path = sktoolslib
-	url = https://github.com/stefankueng/sktoolslib.git
+	url = https://github.com/blckswan-ungtb10d/sktoolslib.git
 	branch = main

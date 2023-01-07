@@ -8,13 +8,13 @@
     <owners>Stefan Kueng</owners>
     <summary>grepWin is a powerful and fast search tool using regular expressions.</summary>
     <description>grepWin is a simple search and replace tool which can use regular expressions to do its job. This allows to do much more powerful searches and replaces.</description>
-    <projectUrl>https://tools.stefankueng.com/grepWin.html</projectUrl>
+    <projectUrl>https://tools.blckswan.no/grepWin.html</projectUrl>
     <tags>grepwin grep search regex admin</tags>
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/stefankueng/grepWin/raw/main/src/Resources/grepwin_256.png</iconUrl>
-    <projectSourceUrl>https://github.com/stefankueng/grepWin</projectSourceUrl>
-    <bugTrackerUrl>https://github.com/stefankueng/grepWin/issues</bugTrackerUrl>
+    <iconUrl>https://github.com/blckswan-ungtb10d/grepWin/raw/main/src/Resources/grepwin_256.png</iconUrl>
+    <projectSourceUrl>https://github.com/blckswan-ungtb10d/grepWin</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/blckswan-ungtb10d/grepWin/issues</bugTrackerUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

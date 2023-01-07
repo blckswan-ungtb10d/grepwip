@@ -14,7 +14,7 @@
     <Package Id="*"
              Keywords="Installer"
              Description="Stefans grepWin x64"
-             Comments="http://tools.stefankueng.com"
+             Comments="http://tools.blckswan.no"
              Manufacturer="Stefans Tools"
              InstallerVersion="200"
              Platform="x64"

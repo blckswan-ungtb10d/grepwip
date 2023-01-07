@@ -255,7 +255,7 @@
     <loadfile file="bin\checksum64.txt" property="checksum64" />
     <!-- now write the version.txt file -->
     <echo file="version.txt">${verstringfull}
-https://tools.stefankueng.com/grepWin.html
+https://tools.blckswan.no/grepWin.html
 </echo>
 
     <loadfile file="choco\grepwin.nuspec" property="nuspecfile">

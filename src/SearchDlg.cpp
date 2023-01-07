@@ -4121,7 +4121,7 @@ void CSearchDlg::CheckForUpdates(bool force)
         {
             std::wstring tempFile  = CTempFiles::Instance().GetTempFilePath(true);
 
-            std::wstring sCheckURL = L"https://raw.githubusercontent.com/stefankueng/grepWin/main/version.txt";
+            std::wstring sCheckURL = L"https://raw.githubusercontent.com/blckswan/grepWin/main/version.txt";
             HRESULT      res       = URLDownloadToFile(nullptr, sCheckURL.c_str(), tempFile.c_str(), 0, nullptr);
             if (res == S_OK)
             {
